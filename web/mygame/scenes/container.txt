@@ -1,0 +1,35 @@
+You hear panicked voices and realise you are in some sort of container.
+
+The language is illegible. The pulse of a heartbeat monitor begins to echo in
+your mind, it's pace increasing rapidly. You shake uncontrollably. An intense
+pain hits your temple, and your skull feels like it will explode. Sparks begins
+to enter your vision.
+
+"Let it go." The voice echoes in your head.
+
+*choice
+  #Unleash
+    *set will +1
+    Obeying the voice, the sparks growing more volatile before a giant flash
+    of light fills your eyes. You feel your body fling itself from its bonds
+    and the floor hits you a moment later. Vision spinning, everything
+    fades to black.
+
+    *page_break
+
+    You wake up on the floor in the midst of an explosion. Familiar faces look upon
+    you with horror as you lift your head and gaze around. Babbling and panic
+    erupts.
+
+    You pull yourself to your feet.
+    *finish Next
+  #Contain it
+    *set physique +1
+    Steeling yourself, your teeth grind together painfully. You close your eyes
+    and try to contain the feeling. A feeling of power surges through you and
+    your restraints crumbles as you pull your hands free.
+
+    Placing both hands on the wall of the container, you push hard. The
+    container gives way with no resistance causing you to stumble as a large
+    metal piece flies forward, hitting the floor with force.
+    *finish Next

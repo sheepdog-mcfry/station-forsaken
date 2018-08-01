@@ -1,0 +1,10 @@
+You
+*stat_chart
+  text Name
+  text Health
+
+Stats
+*stat_chart
+  text physique Physique
+  text will Will
+  text needle Needle Gun

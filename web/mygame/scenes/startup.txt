@@ -1,0 +1,29 @@
+*title Station Forsaken
+*author Waseem Sulimahn
+*scene_list
+  startup
+  container
+  lab
+
+*create name "Unknown"
+*create health 5
+*create location "labs"
+*create physique 0
+*create will 0
+*create needle 0
+*create ob "they"
+*create sub "them"
+*create noun "their"
+*create labstatus true
+*create bloodshed 0
+
+"It's time!"
+
+The voice booms in your head, dragging you out of your stupor. Darkness fills
+your vision and you begin to panic. You attempt to struggle but find your arms
+restrained by your sides.
+
+Your mind races, but nothing makes any sense. There are no memories. A fog of
+emotion clouds your mind.
+
+*finish Next
